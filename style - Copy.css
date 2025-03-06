@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+.head1{
+
+    color: aqua;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    font-size: style;
+    font-style: italic;
+    word-spacing: 12px;
+    font-family: Verdana;
+}
+.para{
+    font-weight: bold ;
+    word-spacing: 30px;
+    letter-spacing: normal;
+    line-height: 12px;
+}
